@@ -1,0 +1,16 @@
+[project]
+name = "intergalactic-cargo-portal"
+version = "1.0.0"
+description = "Intergalactic Cargo Portal — Task 1 auth backend"
+requires-python = ">=3.9"
+dependencies = [
+    "django>=4.2,<5",
+    "djangorestframework>=3.14",
+    "djangorestframework-simplejwt>=5.3",
+    "django-redis>=5.4",
+    "redis>=5.0",
+    "cryptography>=42.0",
+]
+
+[tool.uv]
+package = false
