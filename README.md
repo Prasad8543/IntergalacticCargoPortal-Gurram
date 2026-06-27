@@ -134,3 +134,15 @@ cargo-portal/
 | `PASSWORD_MAX_LENGTH` | `128` | Maximum password length |
 | `DJANGO_SECRET_KEY` | dev default | Django secret key |
 | `REDIS_URL` | `redis://127.0.0.1:6379/1` | Redis cache URL |
+
+
+
+## User Interface Screens
+<img width="1720" height="994" alt="image" src="https://github.com/user-attachments/assets/961ad4e8-75cc-487e-82f9-a076aa61ab84" />
+<img width="1723" height="968" alt="image" src="https://github.com/user-attachments/assets/3ee69f8c-b9bd-444d-9eff-baecc64fbbd6" />
+<img width="1728" height="1006" alt="image" src="https://github.com/user-attachments/assets/8a999c18-9a6f-433e-bce7-b014811233ad" />
+<img width="1728" height="996" alt="image" src="https://github.com/user-attachments/assets/b39bd82c-4bfe-415b-9417-bd38128f77a2" />
+
+
+
+
